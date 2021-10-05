@@ -27,7 +27,7 @@ Added ensembling and adapted code to be able to use any loss function (given its
 3. Current implementation (Oct 3) only accepts one dimensional data 
 
 ## How I could fix the above:
-1 + 2. Implement these! (Maybe in at a later day)
+2. Implement these! (Maybe at a later day)
 
 3. Add random feature selection for the splits
 
