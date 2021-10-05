@@ -13,7 +13,7 @@ Timeline:
 
 
 ## Why?
-I've heard a lot about xgboost and gradient boosted trees, but never went deeply into understanding how they worked before. XGBoost is very popular, and I think understanding how it works could be very useful... and there really isn't a better way to gain understanding compared to implementing something from scratch. 
+I've heard a lot about xgboost and gradient boosted trees, but never went deeply into understanding how they worked before. XGBoost is very popular, and I think understanding how it works could be very useful! Plus there really isn't a better way to gain understanding compared to implementing something from scratch. 
 
 ## What I did:
 ### Part 1:
@@ -28,5 +28,6 @@ Added ensembling and adapted code to be able to use any loss function (given its
 
 ## How I could fix the above:
 1 + 2. Implement these! (Maybe in at a later day)
+
 3. Add random feature selection for the splits
 
