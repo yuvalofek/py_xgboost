@@ -1,3 +1,6 @@
+from XGBoostTree import XGBoostTree
+
+
 class XGBoost:
   def __init__(self, n_trees , max_depth=6, gamma = 0, lambd=0, eta=0.3):
     self.trees = [XGBoostTree(max_depth=max_depth, gamma = gamma, lambd=lambd) for _ in range(n_trees)]
